@@ -1,0 +1,16 @@
+{
+    "CN": "AAAAA-khs1994.com",
+    "key": {
+        "algo": "ecdsa",
+        "size": 256
+    },
+    "names": [
+        {
+            "C": "CN",
+            "ST": "Shanxi",
+            "L": "Datong",
+            "O": "khs1994.com CA",
+            "OU": "khs1994.com CA"
+        }
+    ]
+}
